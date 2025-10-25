@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Signature Wall",
+  "description": "An interactive check-in wall where attendees can create an artistic signature by handwriting or speaking their name. Signatures are beautifully displayed on a theme-appropriate background, all powered by AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
